@@ -1,0 +1,24 @@
+ProductID,ProductName,Brand,Category_Level_0,Category_Level_1,Category_Level_2,Category_Level_3,Fiyat
+1,Fairy Platinum Tablet,Fairy,Deterjan ,Bulaşık Yıkama,Bulaşık Makinesi Ürünleri,Tablet Deterjanlar,60
+2,Komili Riviera Yağı,Komili,"Gıda, Şekerleme",Sıvı Yağlar,Zeytinyağı,Riviera Zeytinyağı,40
+3,Marmara Birlik Siyah Zeytin,Marmara Birlik,"Süt, Kahvaltılık",Zeytin,Siyah Zeytin,Özel Siyah Zeytin,20
+4,CityFarm Organik 10'lu Yumurta,City Farm,"Süt, Kahvaltılık",Yumurta,Özel Yumurta,Özel Yumurta,20
+5,Sütaş Pastörize Süt,Sütaş,"Süt, Kahvaltılık",Süt,Pastörize Süt,Pastörize Sade Süt,5
+6,Selpak Lavanta Tuvalet Kağıdı 32'li,Selpal,"Kağıt, Kozmetik",Kağıt Ürünleri,Tuvalet Kağıtları,Tuvalet Kağıtları,50
+7,Prima Premium Care İkiz Paket 5 No Junior 25'Li,Prima,"Bebek , Oyuncak",Bebek Bezi,Bebek Bezleri,,50
+8,Yayla Kırmızı Mercimek 1 Kg,Yayla,"Gıda, Şekerleme","Bakliyat, Makarna",Bakliyat,Kırmızı Mercimek,10
+9,Torku Tereyağ 500 G,Torku,"Süt, Kahvaltılık","Terayağ, Margarin",Terayağ,Terayağ,30
+10,Limon Nostalji File Kg,Markasız,"Meyve, Sebze",Meyve,Narenciye,Limon,6
+11,Elma Fuji Kg,Markasız,"Meyve, Sebze",Meyve,Sert Meyveler,Elma,5
+12,Beypazarı Maden Suyu 6X200 Ml,Beypazarı,İçecek,Maden Suları,,,5
+13,Sütaş Tava Yoğurt 1000 G,Sütaş,"Süt, Kahvaltılık",Yoğurt,Kaymaklı Yoğurt,Kaymaklı Yoğurt,10
+14,Migros Baldo Pirinç 1000 G,Migros,"Gıda, Şekerleme","Bakliyat, Makarna",Pirinç,Pirinç,8
+15,Yayla Koçbaşı Nohut 1000 G,Yayla,"Gıda, Şekerleme","Bakliyat, Makarna",Bakliyat,Nohut,10
+16,Yayla Dermason Fasulye 1 Kg,Yayla,"Gıda, Şekerleme","Bakliyat, Makarna",Bakliyat,Fasulye,13
+17,Muz Yerli Kg,Markasız,"Meyve, Sebze",Meyve,Muz,,10
+18,Çilek Kg,Markasız,"Meyve, Sebze",Meyve,Çilek,,10
+19,Nutella 750 G,Nutella,"Süt, Kahvaltılık",Kahvaltılıklar,"Krem Çikolata, Ezmeler","Kakao, Fındık Kremaları",20
+20,Bonne Maman Çilek Reçeli 370 G,Bonne Maman,"Süt, Kahvaltılık",Kahvaltılıklar,Reçeli Marmelat,Reçel,30
+21,Doğuş Toz Şeker 1 Kg,Doğuş,"Gıda, Şekerleme",Şeker,Toz Şekerler,,6
+22,Coca-Cola Şekersiz 6X250ML Kutu,Coca-Cola,İçecek,Gazlı İçecekler,Kolalı İçecekler,,10
+,,,,,,, 

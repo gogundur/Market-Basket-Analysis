@@ -1,0 +1,51 @@
+Invoice ID,Invoice Date ,Invoice_Total,Payment Method
+1,23.03.2019,150,Debit
+2,23.03.2019,65,Credit Card
+3,23.03.2019,140,Debit
+4,23.03.2019,75,Credit Card
+5,23.03.2019,55,Credit Card
+6,23.03.2019,38,Credit Card
+7,23.03.2019,10,Credit Card
+8,23.03.2019,125,Credit Card
+9,23.03.2019,61,Credit Card
+10,23.03.2019,90,Credit Card
+11,23.03.2019,40,Debit
+12,23.03.2019,130,Credit Card
+13,23.03.2019,35,Credit Card
+14,23.03.2019,26,Credit Card
+15,23.03.2019,18,Debit
+16,23.03.2019,70,Credit Card
+17,23.03.2019,60,Debit
+18,23.03.2019,40,Debit
+19,23.03.2019,115,Debit
+20,23.03.2019,50,Credit Card
+21,23.03.2019,5,Debit
+22,23.03.2019,31,Credit Card
+23,23.03.2019,75,Credit Card
+24,23.03.2019,115,Credit Card
+25,23.03.2019,80,Debit
+26,23.03.2019,175,Credit Card
+27,23.03.2019,90,Debit
+28,23.03.2019,40,Credit Card
+29,23.03.2019,90,Debit
+30,23.03.2019,30,Credit Card
+31,23.03.2019,28,Credit Card
+32,23.03.2019,146,Credit Card
+33,23.03.2019,40,Credit Card
+34,23.03.2019,18,Credit Card
+35,23.03.2019,150,Credit Card
+36,23.03.2019,120,Credit Card
+37,23.03.2019,95,Debit
+38,23.03.2019,280,Debit
+39,23.03.2019,53,Credit Card
+40,23.03.2019,46,Credit Card
+41,23.03.2019,43,Debit
+42,23.03.2019,270,Credit Card
+43,23.03.2019,167,Debit
+44,23.03.2019,91,Credit Card
+45,23.03.2019,135,Debit
+46,23.03.2019,65,Credit Card
+47,23.03.2019,150,Debit
+48,23.03.2019,120,Credit Card
+49,23.03.2019,60,Debit
+50,23.03.2019,95,Credit Card
